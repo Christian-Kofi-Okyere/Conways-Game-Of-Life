@@ -1,10 +1,7 @@
 /*
  Name: Christian Okyere
- Date: 02/19/2023
- Section: B
  File: Cell.java
  Project: Conway's Game of Life
- Course: CS231
  */
 
 import java.util.ArrayList;
